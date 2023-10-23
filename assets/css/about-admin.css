@@ -1,0 +1,99 @@
+.welcome-panel{
+    background-color: #1a76cc;
+}
+.welcome-panel h2,
+.welcome-panel p{
+    color: #ffffff;
+}
+
+.logo-panel{
+    position: absolute;
+    right: 3em;
+    width: 200px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.logo-panel img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.welcome-panel::before {
+    background: unset;
+}
+
+.welcome-panel-column.important-links a {
+    display: block;
+    color: #ffffff;
+
+}
+.welcome-panel-column.important-links {
+    clear: both;
+}
+
+.welcome-panel h3 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.welcome-panel .sidebar h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.welcome-panel p {
+    font-size: 16px;
+}
+
+.welcome-panel-column-content a {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.wp-core-ui .welcome-panel .button.button-hero {
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 13px 3px 0;
+    letter-spacing: 1px;
+    padding: 6px 24px;
+    line-height: 1.5;
+    min-height: auto;
+}
+
+.container-wrap,
+.sidebar .welcome-panel-column {
+    background-color: #1a1a1a;
+    padding: clamp(15px, 5vw, 25px);
+}
+
+.sidebar .welcome-panel-column:not(:last-child) {
+    margin-bottom: 32px;
+}
+
+.welcome-panel-column {
+    display: block;
+    max-width: 100%;
+    width: auto;
+}
+
+.container-wrap .welcome-panel-column:not(:last-child) {
+    border-bottom: 1px solid #e5e4e4;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+@media only screen and (min-width: 1600px) {
+    .welcome-panel .welcome-panel-column-container {
+        display: grid;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .welcome-panel .welcome-panel-column-container {
+        grid-template-columns: 7fr 3fr;
+    }
+}

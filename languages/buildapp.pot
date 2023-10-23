@@ -1,0 +1,577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buildapp\n"
+"POT-Creation-Date: 2023-03-10 12:34+0530\n"
+"PO-Revision-Date: 2023-03-10 12:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Buildapp"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Buildapp!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Buildapp has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Buildapp Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Buildapp Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Buildapp Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Buildapp? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:14
+msgid "All Your Applications In One Place"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid ""
+"Etiam sit amet iaculis nisi, nec accumsan enim. Sed varius elit non diam "
+"lacinia, vitae vehicula orci sodales. Integer id semper nisl. Donec egestas "
+"hendrerit nibh quis maximus."
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "APP STORE"
+msgstr ""
+
+#: patterns/banner.php:27
+msgid "GOOGLE PLAY"
+msgstr ""
+
+#: patterns/calltoaction.php:12
+msgid "Make Day Lighter"
+msgstr ""
+
+#: patterns/calltoaction.php:16
+msgid "Download &amp; Update App Today"
+msgstr ""
+
+#: patterns/contact.php:13
+msgid "Any other question not listed on the faq"
+msgstr ""
+
+#: patterns/contact.php:17
+#: patterns/footer.php:66
+msgid "Contact"
+msgstr ""
+
+#: patterns/contact.php:25
+#: patterns/info-cards.php:25
+#: patterns/team.php:25
+#: patterns/video.php:26
+msgid ""
+"Donec id sodales sem, ac condimentum nibh. Nunc quis egestas justo. "
+"Curabitur sagittis hendrerit feugiat.&lt;br&gt;Cras convallis lacinia arcu "
+"nec pretium. Aenean nulla erat, vehicula at faucibus at, lacinia nec quam."
+msgstr ""
+
+#: patterns/contact.php:37
+msgid "Want to grow your business outside?"
+msgstr ""
+
+#: patterns/contact.php:41
+msgid ""
+"Give us a call or drop by anytime, we endeavour to answer all inquiries "
+"within 24 hours on business days."
+msgstr ""
+
+#: patterns/contact.php:57
+msgid "Our Location"
+msgstr ""
+
+#: patterns/contact.php:61
+msgid "102/A south-west northern California"
+msgstr ""
+
+#: patterns/contact.php:75
+msgid "Our Email"
+msgstr ""
+
+#: patterns/contact.php:79
+msgid "info@sitename.com"
+msgstr ""
+
+#: patterns/contact.php:93
+msgid "give us a call"
+msgstr ""
+
+#: patterns/contact.php:97
+msgid "+000-9442-616"
+msgstr ""
+
+#: patterns/counter.php:14
+msgid "50+"
+msgstr ""
+
+#: patterns/counter.php:18
+msgid "Apps"
+msgstr ""
+
+#: patterns/counter.php:24
+msgid "5484"
+msgstr ""
+
+#: patterns/counter.php:28
+msgid "Clients"
+msgstr ""
+
+#: patterns/counter.php:34
+msgid "20"
+msgstr ""
+
+#: patterns/counter.php:38
+msgid "Excel Developer"
+msgstr ""
+
+#: patterns/counter.php:44
+msgid "100"
+msgstr ""
+
+#: patterns/counter.php:48
+msgid "Awards"
+msgstr ""
+
+#: patterns/counter.php:54
+msgid "80+"
+msgstr ""
+
+#: patterns/counter.php:58
+msgid "Scheduled Events"
+msgstr ""
+
+#: patterns/features.php:13
+msgid "Amazing Features"
+msgstr ""
+
+#: patterns/features.php:34
+msgid "Beautiful Interface"
+msgstr ""
+
+#: patterns/features.php:38
+#: patterns/features.php:56
+#: patterns/features.php:74
+#: patterns/features.php:100
+#: patterns/features.php:118
+#: patterns/features.php:136
+msgid ""
+"Aenean sit amet semper turpis. Cras sodales dignissim ligula ut efficitur."
+msgstr ""
+
+#: patterns/features.php:52
+msgid "Regular Updates"
+msgstr ""
+
+#: patterns/features.php:70
+msgid "Time Saving"
+msgstr ""
+
+#: patterns/features.php:96
+msgid "Usability first"
+msgstr ""
+
+#: patterns/features.php:114
+msgid "Push Notifications"
+msgstr ""
+
+#: patterns/features.php:132
+msgid "Security"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid ""
+"Give us a call or drop by anytime, we endeavour to answer all enquiries "
+"within 24 hours on business days. Etiam sit amet iaculis nisi, nec accumsan "
+"enim. Sed varius elit non diam lacinia."
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "Feature"
+msgstr ""
+
+#: patterns/footer.php:54
+msgid "Team"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Pricing"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Screenshot"
+msgstr ""
+
+#: patterns/footer.php:75
+msgid "Recent Blog"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid ""
+"Subscribe our newsletter for regular updates about our company and our apps."
+msgstr ""
+
+#: patterns/footer.php:114
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "WordPress"
+msgstr ""
+
+#: patterns/info-cards.php:13
+#: patterns/section-title.php:11
+msgid "We Make An"
+msgstr ""
+
+#: patterns/info-cards.php:17
+#: patterns/section-title.php:15
+#: patterns/video.php:18
+msgid "App That You Need"
+msgstr ""
+
+#: patterns/info-cards.php:42
+msgid "Easy Layout"
+msgstr ""
+
+#: patterns/info-cards.php:46
+#: patterns/info-cards.php:62
+#: patterns/info-cards.php:78
+#: patterns/info-cards.php:94
+#: patterns/info-cards.php:112
+#: patterns/info-cards.php:128
+#: patterns/info-cards.php:144
+#: patterns/info-cards.php:160
+msgid "Class aptent taciti sociosqu ad litora torquent per conubia nostra."
+msgstr ""
+
+#: patterns/info-cards.php:58
+msgid "Fast Messaging"
+msgstr ""
+
+#: patterns/info-cards.php:74
+msgid "2x Powerful"
+msgstr ""
+
+#: patterns/info-cards.php:90
+msgid "Battery Saver"
+msgstr ""
+
+#: patterns/info-cards.php:108
+msgid "Modern Look"
+msgstr ""
+
+#: patterns/info-cards.php:124
+msgid "Image Crop"
+msgstr ""
+
+#: patterns/info-cards.php:140
+msgid "Quick Boostup"
+msgstr ""
+
+#: patterns/info-cards.php:156
+msgid "Less Storage"
+msgstr ""
+
+#: patterns/introduction.php:21
+msgid "Brief About Us"
+msgstr ""
+
+#: patterns/introduction.php:25
+msgid "We Are BuildApp"
+msgstr ""
+
+#: patterns/introduction.php:38
+msgid ""
+"Fusce mollis nulla quis odio auctor bibendum. Aenean interdum augue et "
+"accumsan pharetra. Orci varius natoque penatibus et magnis dis parturient "
+"montes, nascetur ridiculus mus. Morbi euismod posuere dui, quis semper nulla "
+"bibendum vel. In hac habitasse platea dictumst."
+msgstr ""
+
+#: patterns/introduction.php:43
+msgid "Lorem ipsum dolarorit ametion consectetur elit."
+msgstr ""
+
+#: patterns/introduction.php:47
+msgid "Vesti at bulum nec odio aea the dumm ipsumm ipsum."
+msgstr ""
+
+#: patterns/introduction.php:51
+msgid "Grursus mal suada faci lisis Lorem ipsum dolarorit."
+msgstr ""
+
+#: patterns/introduction.php:55
+msgid "Suada faci lisis Lorem ipsum dolarorit."
+msgstr ""
+
+#: patterns/introduction.php:61
+msgid "READ MORE"
+msgstr ""
+
+#: patterns/partners.php:13
+msgid "Partners"
+msgstr ""
+
+#: patterns/partners.php:17
+msgid "Our Clients"
+msgstr ""
+
+#: patterns/pricing.php:13
+msgid "Pricing Plan"
+msgstr ""
+
+#: patterns/pricing.php:17
+msgid "Choose Best Plan"
+msgstr ""
+
+#: patterns/pricing.php:25
+#: patterns/section-title.php:23
+msgid ""
+"Donec id sodales sem, ac condimentum nibh. Nunc quis egestas justo. "
+"Curabitur sagittis hendrerit feugiat.<br>Cras convallis lacinia arcu nec "
+"pretium. Aenean nulla erat, vehicula at faucibus at, lacinia nec quam."
+msgstr ""
+
+#: patterns/pricing.php:38
+#: patterns/pricing.php:100
+#: patterns/pricing.php:162
+msgid "Add title here"
+msgstr ""
+
+#: patterns/pricing.php:43
+#: patterns/pricing.php:105
+#: patterns/pricing.php:167
+msgid "30"
+msgstr ""
+
+#: patterns/pricing.php:47
+#: patterns/pricing.php:109
+#: patterns/pricing.php:171
+msgid "/ Yr"
+msgstr ""
+
+#: patterns/pricing.php:53
+#: patterns/pricing.php:61
+#: patterns/pricing.php:69
+#: patterns/pricing.php:77
+#: patterns/pricing.php:85
+#: patterns/pricing.php:115
+#: patterns/pricing.php:123
+#: patterns/pricing.php:131
+#: patterns/pricing.php:139
+#: patterns/pricing.php:147
+#: patterns/pricing.php:177
+#: patterns/pricing.php:185
+#: patterns/pricing.php:193
+#: patterns/pricing.php:201
+#: patterns/pricing.php:209
+msgid "Add content here"
+msgstr ""
+
+#: patterns/pricing.php:91
+#: patterns/pricing.php:153
+#: patterns/pricing.php:215
+msgid "PURCHASE NOW"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "Meet the team"
+msgstr ""
+
+#: patterns/team.php:17
+msgid "Team Behind App"
+msgstr ""
+
+#: patterns/team.php:42
+msgid "Robert Statham"
+msgstr ""
+
+#: patterns/team.php:46
+#: patterns/team.php:72
+msgid "Developer"
+msgstr ""
+
+#: patterns/team.php:68
+msgid "Kevin Smith"
+msgstr ""
+
+#: patterns/team.php:94
+msgid "Reena Scot"
+msgstr ""
+
+#: patterns/team.php:98
+msgid "Lead Designer"
+msgstr ""
+
+#: patterns/team.php:120
+msgid "Debra Taylor"
+msgstr ""
+
+#: patterns/team.php:124
+msgid "Project Manager"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:17
+msgid "User Feedback"
+msgstr ""
+
+#: patterns/testimonials.php:38
+#: patterns/testimonials.php:70
+#: patterns/testimonials.php:102
+msgid ""
+"Aliquam vel sapien tristique, tempor felis imperdiet, suscipit dui. In non "
+"arcu tincidunt nisl porttitor molestie. Nam a ex a leo suscipit congue in "
+"eget…"
+msgstr ""
+
+#: patterns/testimonials.php:52
+#: patterns/testimonials.php:84
+#: patterns/testimonials.php:116
+msgid "John Albert"
+msgstr ""
+
+#: patterns/testimonials.php:56
+#: patterns/testimonials.php:88
+#: patterns/testimonials.php:120
+msgid "(App User)"
+msgstr ""
+
+#: patterns/video.php:14
+msgid "Take A Tour"
+msgstr ""

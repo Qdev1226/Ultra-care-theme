@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Droplet\n"
+"POT-Creation-Date: 2023-02-09 14:04+0530\n"
+"PO-Revision-Date: 2023-02-09 14:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Droplet"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Droplet!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Droplet has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Droplet Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Droplet Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Droplet Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Droplet? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:60
+#: patterns/sidebar.php:12
+#: patterns/single.php:70
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:70
+#: patterns/sidebar.php:22
+#: patterns/single.php:80
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:94
+#: patterns/sidebar.php:46
+#: patterns/single.php:104
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:104
+#: patterns/sidebar.php:56
+#: patterns/single.php:114
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:114
+#: patterns/sidebar.php:66
+#: patterns/single.php:124
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Excellence in Plumbing"
+msgstr ""
+
+#: patterns/banner.php:25
+msgid "Helps you live Smoothly"
+msgstr ""
+
+#: patterns/banner.php:29
+msgid ""
+"Pellentesque bibendum non lorem ut dignissim. Etiam molestie ultrices enim, "
+"sit amet vehicula dui fermentum id. Ut fermentum augue ac varius venenatis. "
+"Nullam luctus pellentesque finibus. Cras eleifend purus iaculis, vulputate "
+"ex id, scelerisque quam."
+msgstr ""
+
+#: patterns/banner.php:34
+msgid "Book Visit"
+msgstr ""
+
+#: patterns/features.php:24
+msgid "Emergency Services"
+msgstr ""
+
+#: patterns/features.php:28
+#: patterns/features.php:50
+#: patterns/features.php:76
+#: patterns/features.php:98
+msgid ""
+"Nam quam enim, ultricies id convallis blandit, varius nec dui. Integer vel "
+"sem egestas, aliquam ante eget, vulputate neque."
+msgstr ""
+
+#: patterns/features.php:46
+msgid "Long Term Maintenance"
+msgstr ""
+
+#: patterns/features.php:72
+msgid "Sewer Maintenance"
+msgstr ""
+
+#: patterns/features.php:94
+msgid "Seasonal Services"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid ""
+"Mauris pulvinar sodales nisl et porttitor. Quisque malesuada a ipsum vel "
+"finibus."
+msgstr ""
+
+#: patterns/footer.php:30
+msgid "102, Street View, London."
+msgstr ""
+
+#: patterns/footer.php:40
+#: patterns/header.php:53
+#: patterns/introduction.php:76
+msgid "(610) 381-5621-4257"
+msgstr ""
+
+#: patterns/footer.php:50
+#: patterns/header.php:33
+msgid "plumbing@example.com"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "Remodelling Service"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Basement Plumbing"
+msgstr ""
+
+#: patterns/footer.php:88
+#: patterns/services.php:111
+msgid "Bathroom Plumbing"
+msgstr ""
+
+#: patterns/footer.php:92
+#: patterns/services.php:203
+msgid "Gas Line Services"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "Kitchen Plumbing"
+msgstr ""
+
+#: patterns/footer.php:100
+#: patterns/services.php:51
+msgid "General Plumbing"
+msgstr ""
+
+#: patterns/footer.php:104
+#: patterns/services.php:173
+msgid "Commercial Plumbing"
+msgstr ""
+
+#: patterns/footer.php:113
+msgid "Recent Blog"
+msgstr ""
+
+#: patterns/footer.php:127
+msgid "Opening Hours"
+msgstr ""
+
+#: patterns/footer.php:136
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/footer.php:140
+#: patterns/footer.php:154
+msgid "9:00AM to 6:00PM"
+msgstr ""
+
+#: patterns/footer.php:150
+msgid "Saturday"
+msgstr ""
+
+#: patterns/footer.php:164
+msgid "Sunday"
+msgstr ""
+
+#: patterns/footer.php:168
+msgid "Emergency Service"
+msgstr ""
+
+#: patterns/footer.php:186
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:190
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:190
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:190
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:190
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:190
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:29
+msgid "Mail Us"
+msgstr ""
+
+#: patterns/header.php:49
+msgid "Call Us"
+msgstr ""
+
+#: patterns/introduction.php:20
+msgid "ABOUT US"
+msgstr ""
+
+#: patterns/introduction.php:24
+msgid "Professional Plumbing &amp; Heating Services"
+msgstr ""
+
+#: patterns/introduction.php:30
+msgid "Since 2002"
+msgstr ""
+
+#: patterns/introduction.php:36
+msgid ""
+"Nam quam enim, ultricies id convallis blandit, varius nec dui. Integer vel "
+"sem egestas, aliquam ante eget, vulputate neque. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+
+#: patterns/introduction.php:41
+msgid "Immediate 24/7 Emergency Service"
+msgstr ""
+
+#: patterns/introduction.php:45
+msgid "Expert, guaranteed workmanship"
+msgstr ""
+
+#: patterns/introduction.php:49
+msgid "We offer options for pricing on every repair"
+msgstr ""
+
+#: patterns/introduction.php:53
+msgid "Regular plumbing care"
+msgstr ""
+
+#: patterns/introduction.php:60
+msgid "Read More"
+msgstr ""
+
+#: patterns/introduction.php:72
+msgid "plumbing@sitename.com"
+msgstr ""
+
+#: patterns/process.php:13
+msgid "Working Process"
+msgstr ""
+
+#: patterns/process.php:35
+msgid "01"
+msgstr ""
+
+#: patterns/process.php:41
+msgid "Quick Request"
+msgstr ""
+
+#: patterns/process.php:45
+#: patterns/process.php:69
+#: patterns/process.php:93
+#: patterns/process.php:117
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: patterns/process.php:59
+msgid "02"
+msgstr ""
+
+#: patterns/process.php:65
+msgid "Inspect &amp; Analyse"
+msgstr ""
+
+#: patterns/process.php:83
+msgid "03"
+msgstr ""
+
+#: patterns/process.php:89
+msgid "Work Status"
+msgstr ""
+
+#: patterns/process.php:107
+msgid "04"
+msgstr ""
+
+#: patterns/process.php:113
+msgid "Fix Up &amp; Finish"
+msgstr ""
+
+#: patterns/quote.php:30
+msgid "Request A Quote"
+msgstr ""
+
+#: patterns/quote.php:34
+msgid ""
+"Mauris pulvinar sodales nisl et porttitor. Quisque malesuada a ipsum vel "
+"finibus. Ut hendrerit efficitur ipsum vitae mollis. Nunc semper congue est "
+"in aliquet."
+msgstr ""
+
+#: patterns/recent-news.php:13
+msgid "Our Blog"
+msgstr ""
+
+#: patterns/recent-news.php:17
+msgid "Latest News"
+msgstr ""
+
+#: patterns/services.php:13
+msgid "Services We Provide"
+msgstr ""
+
+#: patterns/services.php:17
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:25
+msgid ""
+"Morbi sagittis neque sit amet lorem lacinia, ut finibus lorem vulputate. "
+"Praesent dapibus semper sapien, quis vestibulum nulla finibus vel. Phasellus "
+"dolor sapien, rutrum eu quam eget, tristique hendrerit nisl."
+msgstr ""
+
+#: patterns/services.php:55
+#: patterns/services.php:85
+#: patterns/services.php:115
+#: patterns/services.php:147
+#: patterns/services.php:177
+#: patterns/services.php:207
+msgid ""
+"There are many with variations of quis. passages of available but the "
+"majority have some by injected"
+msgstr ""
+
+#: patterns/services.php:81
+msgid "Water Heating"
+msgstr ""
+
+#: patterns/services.php:143
+msgid "Drainage Services"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "Our Team"
+msgstr ""
+
+#: patterns/team.php:17
+msgid "Our Plumbers"
+msgstr ""
+
+#: patterns/team.php:36
+#: patterns/team.php:64
+#: patterns/team.php:92
+#: patterns/team.php:120
+msgid "Henry Barton"
+msgstr ""
+
+#: patterns/team.php:40
+#: patterns/team.php:68
+#: patterns/team.php:96
+#: patterns/team.php:124
+msgid "Plumber"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "Client Feedback"
+msgstr ""
+
+#: patterns/testimonials.php:17
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:32
+msgid ""
+"Sed vel ligula in est ullamcorper tempor eget eget sapien. Duis sit amet "
+"facilisis urna. Nulla eget dolor molestie, dignissim neque non, consectetur "
+"tellus. Aenean odio nulla, porttitor tincidunt quam in, semper aliquet "
+"lorem. Phasellus efficitur dui non ipsum vulputate, ut sollicitudin ligula "
+"ullamcorper. Quisque…"
+msgstr ""
+
+#: patterns/testimonials.php:46
+msgid "Peter Parker"
+msgstr ""
+
+#: patterns/testimonials.php:50
+msgid "(FPA Stackholder)"
+msgstr ""
